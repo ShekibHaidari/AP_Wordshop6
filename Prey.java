@@ -1,2 +1,4 @@
-public class Prey {
+public interface Prey {
+    public void prey();
+    public String getName();
 }
